@@ -1,0 +1,252 @@
+[
+    {
+        "id" : 0,
+        "title" :"Astronomija za 100:",
+        "text" : "Koji je planet najbliži Zemlji?"
+    },
+    {
+        "id" : 1,
+        "title" : "D&D za 100:",
+        "text" : "Kako se zove osoba koja vodi igru?"
+    },
+    {
+        "id" : 2,
+        "title" :"Šah za 100:",
+        "text" : " Koliko individualnih kvadratića ima šahovska ploča?"
+    },
+    {
+        "id" : 3,
+        "title" :"Ples za 100:",
+        "text" : "Koji stil plesa izvode plesači s metalnim pločicama na dnu cipela?"
+    },
+    {
+        "id" : 4,
+        "title" :"Video Igre za 100:",
+        "text" : "Microsoft je razvio koju igraču konzolu?"
+    },
+    {
+        "id" : 5,
+        "title" :"Sci-Fi za 100:",
+        "text" : "Iz kojeg popularnog filma dolazi citat: ,,Luke, I am your father''?"
+    },
+    {
+        "id" : 6,
+        "title" :"Disney za 100:",
+        "text" : "Koja vrsta životinje je Dumbo?"
+    },
+    {
+        "id" : 7,
+        "title" :"WWII za 100:",
+        "text" : "Koji je naziv manifesta Adolf Hitlera?"
+    },
+    {
+        "id" : 8,
+        "title" :"Indie Rock za 100:",
+        "text" : "Iz koje države potiče Indie Rock?"
+    },
+    {
+        "id" : 9,
+        "title" :"Special za 100:",
+        "text" : "Koliko godina svaki od slavljenika navršava ove godine?"
+    },
+    {
+        "id" : 10,
+        "title" :"Astronomija za 200:",
+        "text" : "Svaka zvijezda spada u neki od razreda ovisno o svojoj veličini i jačini svijetlosti. Koju od boja ne možemo pronaću u nazivima klasifikacija zvijezda: bijela, crvena, crna, narančasta, plava ili žuta?"
+    },
+    {
+        "id" : 11,
+        "title" :"D&D za 200:",
+        "text" : "Koje je ime popularne sitcom serije u kojoj su igrali D&D?"
+    },
+    {
+        "id" : 12,
+        "title" :"Šah za 200:",
+        "text" : "U kojoj državi je šah nastao?"
+    },
+    {
+        "id" : 13,
+        "title" :"Ples za 200:",
+        "text" : "Koliko koraka ima bečki valcer?"
+    },
+    {
+        "id" : 14,
+        "title" :"Video Igre za 200:",
+        "text" : "Koja je najprodavanija igrica u povijesti?"
+    },
+    {
+        "id" : 15,
+        "title" :"Sci-Fi za 200:",
+        "text" : "Koje je ime najpoznatijeg Sci-Fi automobila?"
+    },
+    {
+        "id" : 16,
+        "title" :"Disney za 200:",
+        "text" : "Što znaci ,,Hakuna Matata''?"
+    },
+    {
+        "id" : 17,
+        "title" :"WWII za 200:",
+        "text" : "U kojoj se Francuskoj pokrajni odvio Dan D?"
+    },
+    {
+        "id" : 18,
+        "title" :"Indie Rock za 200:",
+        "text" : "Koji je najpoznatiji Indie Rock bend?"
+    },
+    {
+        "id" : 19,
+        "title" :"Special za 200:",
+        "text" : "Koliko ukupno braće i sestara imaju slavljenici?"
+    },
+    {
+        "id" : 20,
+        "title" :"Astronomija za 300:",
+        "text" : "Koji je astronom prvi predložio ideju heliocentričnog sustava?"
+    },
+    {
+        "id" : 21,
+        "title" :"D&D za 300:",
+        "text" : "Koliko strana ima kockica koja se najviše koristi u D&D-u?"
+    },
+    {
+        "id" : 22,
+        "title" :"Šah za 300:",
+        "text" : "Tko je aktualni svjetski prvak u šahu?"
+    },
+    {
+        "id" : 23,
+        "title" :"Ples za 300:",
+        "text" : "Iz kojeg popularnog musikla ispunjenog plesom potiče pjesma ''The time of my life''?"
+    },
+    {
+        "id" : 24,
+        "title" :"Video Igre za 300:",
+        "text" : "Kako se zove najpoznatiji hrvatski proizvođač video igara?"
+    },
+    {
+        "id" : 25,
+        "title" :"Sci-Fi za 300:",
+        "text" : "Kako se zove najpoznatiji android u seriji Star Trek?"
+    },
+    {
+        "id" : 26,
+        "title" :"Disney za 300:",
+        "text" : "U svijetu Monster's Inc., ne postoji ništa otrovnije ili smrtonosnije od čega?"
+    },
+    {
+        "id" : 27,
+        "title":"WWII za 300:",
+        "text" : "Pod kojim je nazivom godine 1941. započela njemačka invazija SSSR-a?"
+    },
+    {
+        "id" : 28,
+        "title" :"Indie Rock za 300:",
+        "text" : "Iz kojeg muzičkog žanra potiče Indie Rock?"
+    },
+    {
+        "id" : 29,
+        "title" :"Special za 300:",
+        "text" : "Koji je datum rođendana svakom od slavljenika?"
+    },
+    {
+        "id" : 30,
+        "title" :"Astronomija za 400:",  
+        "text" : "Koji je latinski naziv zviježđa Velikog Medvjeda?"
+    },
+    {
+        "id" : 31,
+        "title" :"D&D za 400:",
+        "text" : "Kako se zove kompanija koja drži prava na D&D?"
+    },
+    {
+        "id" : 32,
+        "title" :"Šah za 400:",
+        "text" : "Koja, naša susjedna država, ima dva otvaranja nazvana po njima?"
+    },
+    {
+        "id" : 33,
+        "title" :"Ples za 400:",
+        "text" : "Koji zabavni ples potiče iz Argentine?"
+    },
+    {
+        "id" : 34,
+        "title" :"Video Igre za 400:",
+        "text" : "Tko je predsijednik tvrtke Valve?"
+    },
+    {
+        "id" : 35,
+        "title" :"Sci-Fi za 400:",
+        "text" : "Koje je godine objavljen film Matrix?"
+    },
+    {
+        "id" : 36,
+        "title" :"Disney za 400:",
+        "text" : "Koji je pobjednik Grammy-a skladao soundtrack za Tarzana?"
+    },
+    {
+        "id" : 37,
+        "title" :"WWII za 400:",
+        "text" : "Tijekom bitke za britaniju, koji je britanski avion zadobio legendarni status?"
+    },
+    {
+        "id" : 38,
+        "title" :"Indie Rock za 400:",
+        "text" : "Koji popularni bend izvodi pjesmu ,,Gold on the Ceiling''?"
+    },
+    {
+        "id" : 39,
+        "title" :"Special za 400:",
+        "text" : "Nabroji 3 kvarta u kojima slavljenici žive?"
+    },
+    {
+        "id" : 40,
+        "title" :"Astronomija za 600:",
+        "text" : " Koliko zviježđa ima po klasifikacijama Međunarodnog astronomskog saveza?"
+    },
+    {
+        "id" : 41,
+        "title" : "D&D za 600:",
+        "text" : "Koliko glava ima, zla kraljica kromatskih zmajeva, Tiamat?"
+    },
+    {
+        "id" : 42,
+        "title" :"Šah za 600:",
+        "text" : "Tko je prvi svjetski šahovski prvak?"
+    },
+    {
+        "id" : 43,
+        "title" :"Ples za 600:",
+        "text" : "U kojem desetljeću 20. stoljeća je osmišljen moderni jazz?"
+    },
+    {
+        "id" : 44,
+        "title" :"Video Igre za 600:",
+        "text" : "Koje godine je napravljena prva video igra?"
+    },
+    {
+        "id" : 45,
+        "title" :"Sci-Fi za 600:",
+        "text" : "U kojoj poznatoj sci-fi priči jedan nomadski narod priča na srpskom?"
+    },
+    {
+        "id" : 46,
+        "title" :"Disney za 600:",
+        "text" : "Koje je godine objavljena orginalna Snjeguljica?"
+    },
+    {
+        "id" : 47,
+        "title" :"WWII za 600:",
+        "text" : "Kome je dodjeljen nadimak 'Anđeo Smrti'?"
+    },
+    {
+        "id" : 48,
+        "title" : "Indie Rock za 600:",
+        "text" : "Na svjetskoj sceni, prvi se pojavio koji bend?"
+    },
+    {
+        "id" : 49,
+        "title" :"Special za 600:",
+        "text" : "Razvrstaj svaku kategoriju po osobi koja ju je odabrala."
+    }
+]
